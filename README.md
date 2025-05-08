@@ -68,7 +68,7 @@ Fork this project to your GitHub account.
 Clone your fork locally:
 
 bash
-git clone https://github.com/<your-username>/<repo-name>.git
+git clone [https://github.com/<your-username>/<repo-name>.git](https://github.com/itamargithub/reef_exercise)
 cd <repo-name>
 
 
