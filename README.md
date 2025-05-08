@@ -1,6 +1,6 @@
 # 📄 README.md
 
-# Hello World - DevOps Home Assignment
+# Hello World - DevOps Assignment
 
 ## Overview
 
